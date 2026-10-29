@@ -30,7 +30,7 @@
 
 ## 📖 About Kiwix Reader
 
-Kiwix is a free, open-source offline reader for Wikipedia, Project Gutenberg, Stack Exchange, and hundreds of other web-based knowledge resources. Download ZIM files for offline access to entire websites — perfect for areas with unreliable internet. Used by educators, travelers, and humanitarian organizations worldwide to provide access to knowledge without connectivity.
+Kiwix is a free, open-source offline reader for Wikipedia, Project Gutenberg, Stack Exchange, and hundreds of other web-based knowledge resources. Download ZIM files for offline access to entire websites — perfect for areas with unreliable internet.
 
 ---
 
